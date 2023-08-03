@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co/fQvjjs1/logo.png" alt="logo" width="200" align="center"></img>
+  <a href="https://eugeneqg.github.io/eugene_qg/"><img src="https://i.ibb.co/fQvjjs1/logo.png" alt="logo" width="200" align="center"></img></a>
 </p>
+<p align="center">click to go to my website</p>
 
 <h2 align="center">Hi there! My name is Eugene and I'm a Frontend developer!</h2>
 
@@ -22,4 +23,6 @@
     <img width="50" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux"></img>&nbsp;
     <img width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="MongoDB"></img>
 </div>
+
+<h3>other instruments</h3>
 
