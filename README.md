@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://eugeneqg.github.io/eugene_qg/"><img src="https://i.ibb.co/fQvjjs1/logo.png" alt="logo" width="200" align="center"></img></a>
 </p>
-<p align="center">click to go to my website</p>
+<p align="center">click on the logo to go to my website</p>
 
 <h2 align="center">Hi there! My name is Eugene and I'm a Frontend developer!</h2>
 
