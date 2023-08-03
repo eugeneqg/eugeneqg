@@ -21,6 +21,7 @@
     <img width="50" src="https://cdn-icons-png.flaticon.com/512/617/617509.png?w=1380&t=st=1691053733~exp=1691054333~hmac=d47032fc55615563217d83d330cf7a3cf7f44c12d07d992bf1151c4c516f293d" alt="git"></img>&nbsp;
     <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="Sass"></img>&nbsp;
     <img width="50" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux"></img>&nbsp;
-    <img width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="MongoDB"></img>
+    <img width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="MongoDB"></img>&nbsp;
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap"></img>
 </div>
 
